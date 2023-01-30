@@ -1,0 +1,6 @@
+rootProject.name = 'task-127'
+include 'task-1-stale-exception-demo'
+include 'task-2-geoip-api-testing'
+include 'task-3-ui-tabs-switching'
+include 'task-4-ui-page-unload-wait'
+
